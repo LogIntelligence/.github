@@ -7,6 +7,7 @@
 
 | Project | Description | Related Publication |
 |--------|-------------|---------------------|
+| [LogPipe](https://github.com/LogIntelligence/LogPipe) | Knowledge-Augmented Log Anomaly Detection with LLMs |[ICSE 2026](https://conf.researchr.org/details/icse-2026/icse-2026-research-track/206/Knowledge-Augmented-Log-Anomaly-Detection-with-Large-Language-Models) |
 | [UNLEASH](https://github.com/LogIntelligence/UNLEASH) | Enhanced log parsing with PLMs |[ICSE 2025](https://ieeexplore.ieee.org/document/11029829) |
 | [PreLog](https://github.com/LogIntelligence/PreLog) | Contrastive pretraining for unified log analysis |[SIGMOD 2024](https://dl.acm.org/doi/10.1145/3654966) |
 | [LogBatcher](https://github.com/LogIntelligence/LogBatcher) | Demonstration-free log parsing with LLMs |[ASE 2024](https://conf.researchr.org/home/icse-2025) |
